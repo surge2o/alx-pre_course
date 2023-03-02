@@ -1,1 +1,1 @@
-“my second commit on git”
+“my second commit on git now update”
